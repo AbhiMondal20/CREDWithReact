@@ -1,0 +1,49 @@
+{
+    "users":[
+        {
+            "id": 1,
+            "name": "abhi",
+            "email": "abhitechbot@gmail.com"
+        },
+        {
+            "id": 2,
+            "name": "abhi2",
+            "email": "abhitechbot2@gmail.com"
+        },
+        {
+            "id": 3,
+            "name": "abhi3",
+            "email": "abhitechbot3@gmail.com"
+        },
+        {
+            "id": 4,
+            "name": "abhi4",
+            "email": "abhitechbot4@gmail.com"
+        },
+        {
+            "id": 5,
+            "name": "abhi5",
+            "email": "abhitechbot5@gmail.com"
+        },
+        {
+            "id": 6,
+            "name": "abhi6",
+            "email": "abhitechbot6@gmail.com"
+        },
+        {
+            "id": 7,
+            "name": "abhi7",
+            "email": "abhitechbot7@gmail.com"
+        },
+        {
+            "id": 8,
+            "name": "abhi8",
+            "email": "abhitechbot8@gmail.com"
+        },
+        {
+            "id": 9,
+            "name": "abhi9",
+            "email": "abhitechbot9@gmail.com"
+        }
+    ]
+}
